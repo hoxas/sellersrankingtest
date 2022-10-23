@@ -83,3 +83,7 @@ You are free to play around with the script and register more sales to check the
 ### Aditional Info
 
 **date column is stored as a Unix Timestamp**
+
+## Slides
+Link to Development Planning slides:
+> https://docs.google.com/presentation/d/1OhmiHjDFlLCtiEgSKL2OQWflgzPGRDEBV52llWz1iUE/edit?usp=sharing
