@@ -79,3 +79,7 @@ We can see in the output above that it ranked in descending order by the seller 
 The other two sellers **Richie** and **Lana** have no **sales** registered so they don't show up. 
 
 You are free to play around with the script and register more sales to check the output.
+
+### Aditional Info
+
+**date column is stored as a Unix Timestamp**
