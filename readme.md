@@ -1,11 +1,11 @@
 # Dev Test - Sellers Ranking Logic
 
 ## Introduction
----
 Sellers Ranking & Registration Logic Prototype\
-Made with:\
-Python 3 - Script\
-Sqlite - Database
+
+Made with:
+>Python 3 - Script\
+>Sqlite - Database
 
 The database already comes populated with a few sales and 5 registered sellers with the following names:
 > Helo\
@@ -17,24 +17,21 @@ The database already comes populated with a few sales and 5 registered sellers w
 So when registering a sale if the seller name doesn't match any of these it will ask for another name.
 
 ## Requirements
----
 > Python 3.8 >=\
 > Git (to clone the repo)
 
 ***All the modules used are Python built-ins.***
 
 ## Installation
----
 Cloning the repository
 ```
-git clone this.repo
+git clone https://github.com/hoxas/sellersrankingtest
 ```
 
 ## Running
----
 Entering repo directory
 ```
-cd this.repo
+cd sellersrankingtest
 ```
 Running script
 ```
@@ -42,7 +39,6 @@ python3 logic.py
 ```
 
 ## Usage
----
 ```
 python3 logic.py [arg]
 python logic.py [arg]
