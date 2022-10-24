@@ -56,8 +56,8 @@ By running the command below without any changes to the database in the repo
 ```
 python3 logic.py -s
 ```
-We will skip the registration process to see if the output list ranking is working properly\
-And the output should be:
+We will skip the registration process to see if the output list ranking is working properly.\
+The output should be:
 ```
 Opening Sale Registration
 Connecting to DB... 
