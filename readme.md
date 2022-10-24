@@ -76,7 +76,7 @@ We can see in the output above that it ranked in descending order by the seller 
 > **Sable** number two with **two** sales\
 > **Mark** number three with **one** sale
 
-The other two sellers **Richie** and **Lana** have no **sales** registered so they don't show up. 
+The other two sellers **Richie** and **Lana** have **no sales** registered so they don't show up. 
 
 You are free to play around with the script and register more sales to check the output.
 
