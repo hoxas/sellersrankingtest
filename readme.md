@@ -1,7 +1,7 @@
 # Dev Test - Sellers Ranking Logic
 
 ## Introduction
-Sellers Ranking & Registration Logic Prototype\
+Sellers Ranking & Registration Logic Prototype
 
 Made with:
 >Python 3 - Script\
